@@ -1,0 +1,19 @@
+
+p{
+    background-color: rgb(255, 182, 193);
+    font-family: "Verdana", "DejaVu Sans", sans-series;
+}
+#sec{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#fou{
+    background-color: #90ee90;
+   
+    font-weight: bold;
+
+}
+.fs-3-4{
+     font-size: 24px;
+}
